@@ -1,0 +1,26 @@
+{
+  "name": "skygea-mcp-agent",
+  "version": "1.0.0",
+  "description": "Your first MCP-powered AI agent built with Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thusharanavod123/skygea-mcp-agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/thusharanavod123/skygea-mcp-agent/issues"
+  },
+  "homepage": "https://github.com/thusharanavod123/skygea-mcp-agent#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mcp-server": "^0.0.9",
+    "openai": "^6.8.1"
+  }
+}
